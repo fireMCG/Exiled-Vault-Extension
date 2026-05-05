@@ -1,0 +1,29 @@
+/* Hide headings ONLY inside embedded notes */
+
+/* Reading mode embeds */
+.markdown-embed-content h1 {
+    display: none !important;
+}
+.markdown-embed-content h2 {
+    display: none !important;
+}
+.markdown-embed-content h3 {
+    display: none !important;
+}
+.markdown-embed-content h4 {
+    display: none !important;
+}
+
+/* Live Preview embeds */
+.internal-embed .cm-header-1 {
+    display: none !important;
+}
+.internal-embed .cm-header-2 {
+    display: none !important;
+}
+.internal-embed .cm-header-3 {
+    display: none !important;
+}
+.internal-embed .cm-header-4 {
+    display: none !important;
+}
