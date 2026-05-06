@@ -1,22 +1,22 @@
 
 | Reliquary Key                                        | Relic Vault                                                          |
 | ---------------------------------------------------- | -------------------------------------------------------------------- |
-| ![[Ancient Reliquary Key#Ancient Reliquary Key]]     | ![[Legacy Relic Vault#Legacy Relic Vault]]                           |
-| ![[Archive Reliquary Key#Archive Reliquary Key]]     | ![[Archive Cache Relic Vault#Archive Cache Relic Vault]]             |
-| ![[Cosmic Reliquary Key#Cosmic Reliquary Key]]       | ![[A Father's Love Relic Vault#A Father's Love Relic Vault]]         |
-| ![[Decaying Reliquary Key#Decaying Reliquary Key]]   | ![[Silent Legacy Relic Vault#Silent Legacy Relic Vault]]             |
-| ![[Forgotten Reliquary Key#Forgotten Reliquary Key]] | ![[Forgotten Guilt Relic Vault#Forgotten Guilt Relic Vault]]         |
-| ![[Oubliette Reliquary Key#Oubliette Reliquary Key]] | ![[What Little Remains Relic Vault#What Little Remains Relic Vault]] |
-| ![[Shiny Reliquary Key#Shiny Reliquary Key]]         | ![[Shiny Toy Box Relic Vault#Shiny Toy Box Relic Vault]]             |
-| ![[Timeworn Reliquary Key#Timeworn Reliquary Key]]   | ![[Timeworn Chest Relic Vault#Timeworn Chest Relic Vault]]           |
-| ![[Vaal Reliquary Key#Vaal Reliquary Key]]           | ![[Vaal Repository Relic Vault#Vaal Repository Relic Vault]]         |
-| ![[Visceral Reliquary Key#Visceral Reliquary Key]]   | ![[Visceral Remnant Relic Vault#Visceral Remnant Relic Vault]]       |
-| ![[Voidborn Reliquary Key#Voidborn Reliquary Key]]   | ![[Voidborn Chest Relic Vault#Voidborn Chest Relic Vault]]           |
-| ![[Twilight Reliquary Key#Twilight Reliquary Key]]   | ![[Twilight Relic Vault#Twilight Relic Vault]]                       |
+| ![[Ancient Reliquary Key#Flavour Text]]     | ![[Legacy Relic Vault#Flavour Text]]                           |
+| ![[Archive Reliquary Key#Flavour Text]]     | ![[Archive Cache Relic Vault#Flavour Text]]             |
+| ![[Cosmic Reliquary Key#Flavour Text]]       | ![[A Father's Love Relic Vault#Flavour Text]]         |
+| ![[Decaying Reliquary Key#Flavour Text]]   | ![[Silent Legacy Relic Vault#Flavour Text]]             |
+| ![[Forgotten Reliquary Key#Flavour Text]] | ![[Forgotten Guilt Relic Vault#Flavour Text]]         |
+| ![[Oubliette Reliquary Key#Flavour Text]] | ![[What Little Remains Relic Vault#Flavour Text]] |
+| ![[Shiny Reliquary Key#Flavour Text]]         | ![[Shiny Toy Box Relic Vault#Flavour Text]]             |
+| ![[Timeworn Reliquary Key#Flavour Text]]   | ![[Timeworn Chest Relic Vault#Flavour Text]]           |
+| ![[Vaal Reliquary Key#Flavour Text]]           | ![[Vaal Repository Relic Vault#Flavour Text]]         |
+| ![[Visceral Reliquary Key#Flavour Text]]   | ![[Visceral Remnant Relic Vault#Flavour Text]]       |
+| ![[Voidborn Reliquary Key#Flavour Text]]   | ![[Voidborn Chest Relic Vault#Flavour Text]]           |
+| ![[Twilight Reliquary Key#Flavour Text]]   | ![[Twilight Relic Vault#Flavour Text]]                       |
 
 #
 ---
-## Tags
+# Tags
 #Attributes/DataTable
 #Category/Reliquary 
 #PoE1 

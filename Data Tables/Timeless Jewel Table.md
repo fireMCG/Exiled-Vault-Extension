@@ -22,15 +22,15 @@
 |          | Xibaqua  | ![[Divine Flesh#Flavour Text]]          |
 |          | Zerphi   | ![[Eternal Youth#Flavour Text]]         |
 # PoE2
-| Culture | Person  | Keystone                                         |
-| ------- | ------- | ------------------------------------------------ |
-| Abyssal | Amanamu | ![[Sacrifice of Flesh#Flavour Text]]       |
-|         | Kulemak | ![[Sacrifice of Loyalty#Flavour Text]]   |
-|         | Kurgal  | ![[Sacrifice of Mind#Flavour Text]]         |
-|         | Tecrod  | ![[Sacrifice of Blood#Flavour Text]]       |
-|         | Ulaman  | ![[Sacrifice of Sight#Flavour Text]]       |
-| Kalguur | Medved  | ![[Circular Teachings#Flavour Text]]       |
-|         | Olroth  | ![[Knightly Tenets#Flavour Text]]             |
+| Culture | Person  | Keystone                                |
+| ------- | ------- | --------------------------------------- |
+| Abyssal | Amanamu | ![[Sacrifice of Flesh#Flavour Text]]    |
+|         | Kulemak | ![[Sacrifice of Loyalty#Flavour Text]]  |
+|         | Kurgal  | ![[Sacrifice of Mind#Flavour Text]]     |
+|         | Tecrod  | ![[Sacrifice of Blood#Flavour Text]]    |
+|         | Ulaman  | ![[Sacrifice of Sight#Flavour Text]]    |
+| Kalguur | Medved  | ![[Circular Teachings#Flavour Text]]    |
+|         | Olroth  | ![[Knightly Tenets#Flavour Text]]       |
 |         | Vorana  | ![[Black Scythe Training#Flavour Text]] |
 
 #
