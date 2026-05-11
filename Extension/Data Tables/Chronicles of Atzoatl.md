@@ -9,7 +9,7 @@
 | ![[Wealth of the Vaal#Chronicle of Atzoatl]]     |
 | ![[Sanctum of Immortality#Chronicle of Atzoatl]] |
 | ![[Shrine of Unmaking#Chronicle of Atzoatl]]     |
-| ![[Factory#Chronicle of Atzoatl]]                |
+| ![[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Incursion Rooms/PoE1/F/Factory#Chronicle of Atzoatl]]                |
 | ![[Museum of Artefacts#Chronicle of Atzoatl]]    |
 | ![[Defense Research Lab#Chronicle of Atzoatl]]   |
 | ![[Hall of Legends#Chronicle of Atzoatl]]        |

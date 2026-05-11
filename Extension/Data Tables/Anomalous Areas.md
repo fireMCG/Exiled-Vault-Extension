@@ -10,6 +10,5 @@
 ---
 # Tags
 #Attributes/DataTable 
-#Category/Area 
-#Category/Map
+#Category/Area/Atlas/Anomaly 
 #PoE2
