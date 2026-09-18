@@ -1,0 +1,21 @@
+# Copy this file to .github/workflows/notify-website.yml in EACH lore repository.
+name: Notify public library
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request a fresh website publication
+        env:
+          GH_TOKEN: ${{ secrets.WEBSITE_DISPATCH_TOKEN }}
+          SOURCE_REPOSITORY: ${{ github.repository }}
+          SOURCE_COMMIT: ${{ github.sha }}
+        run: |
+          jq -n --arg repo "$SOURCE_REPOSITORY" --arg sha "$SOURCE_COMMIT" \
+            '{event_type:"lore-updated",client_payload:{repository:$repo,sha:$sha}}' \
+            | gh api --method POST repos/fireMCG/Exiled-Vault-Web/dispatches --input -
