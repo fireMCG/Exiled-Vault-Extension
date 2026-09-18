@@ -37,7 +37,7 @@
 ---
 # Tags
 #Attributes/DataTable 
-#Category/Artefact 
+#Category/UniqueItem 
 #Category/Keystone 
 #League/Legion
 #PoE1 

@@ -11,6 +11,6 @@
 ---
 # Tags
 #Attributes/DataTable
-#Category/Artefact
+#Category/UniqueItem
 #League/Necropolis
 #PoE1 
